@@ -650,3 +650,1470 @@ category:
       outcomes:
         - url: "https://poe.ninja/challenge/beasts/saqawal-first-of-the-sky"
           count: 1
+  Divination Cards:
+    House of Mirrors:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/house-of-mirrors"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/mirror-of-kalandra"
+          count: 1
+    The Apothecary:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-apothecary"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/mageblood-heavy-belt"
+          count: 1
+    The Price of Devotion:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-price-of-devotion"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/mageblood-heavy-belt"
+          count: 1
+    Unrequited Love:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/unrequited-love"
+          count: 16
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/mirror-shard"
+          count: 19
+    The Insane Cat:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-insane-cat"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/mageblood-heavy-belt"
+          count: 0.8
+    The Doctor:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-doctor"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/headhunter-leather-belt"
+          count: 1
+    The Demon:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-demon"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/headhunter-leather-belt"
+          count: 1.2
+    The Immortal:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-immortal"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/divination-cards/house-of-mirrors"
+          count: 1
+    The Fiend:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-fiend"
+          count: 11
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/headhunter-leather-belt"
+          count: 0.9
+    Choking Guilt:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/choking-guilt"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/stranglegasp-onyx-amulet"
+          count: 1
+    Love Through Ice:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/love-through-ice"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/unnatural-instinct-viridian-jewel"
+          count: 1.2
+    The Shieldbearer:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-shieldbearer"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/the-squire-elegant-round-shield"
+          count: 1
+    Seven Years Bad Luck:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/seven-years-bad-luck"
+          count: 13
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/mirror-shard"
+          count: 1
+    The Soul:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-soul"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/soul-taker-siege-axe"
+          count: 1
+    The Endless Darkness:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-endless-darkness"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/voidforge-infernal-sword"
+          count: 1
+    The Sephirot:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-sephirot"
+          count: 11
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 10
+    Wealth and Power:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/wealth-and-power"
+          count: 11
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/enlighten-support-4c"
+          count: 1
+    The Nurse:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-nurse"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/divination-cards/the-doctor"
+          count: 1
+    The Price of Loyalty:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-price-of-loyalty"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/skin-of-the-loyal-simple-robe-6l"
+          count: 1.2
+    Doryani's Epiphany:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/doryanis-epiphany"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/prime-regrading-lens"
+          count: 1.5
+        - url: "https://poe.ninja/challenge/currency/secondary-regrading-lens"
+          count: 1.5
+    Divine Beauty:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/divine-beauty"
+          count: 12
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 7
+    The Samurai's Eye:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-samurais-eye"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/watchers-eye-prismatic-jewel"
+          count: 1
+    Brother's Stash:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/brothers-stash"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/exalted-orb"
+          count: 5
+    Beauty Through Death:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/beauty-through-death"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/atziris-reflection-golden-buckler"
+          count: 1
+    A Fate Worse Than Death:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/a-fate-worse-than-death"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/cortex-t10"
+          count: 1
+    The Last One Standing:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-last-one-standing"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/atziris-disfavour-vaal-axe"
+          count: 1
+    The Artist:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-artist"
+          count: 11
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/enhance-support-4c"
+          count: 1
+    Eternal Bonds:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/eternal-bonds"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/replica-cortex-t10"
+          count: 1
+    The Dragon's Heart:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-dragons-heart"
+          count: 11
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/empower-support-4c"
+          count: 1
+    Darker Half:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/darker-half"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/eldritch-chaos-orb"
+          count: 5
+    The Greatest Intentions:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-greatest-intentions"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/the-saviour-legion-sword"
+          count: 1.2
+    Succor of the Sinless:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/succor-of-the-sinless"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/bottled-faith"
+          count: 1
+    The Enlightened:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-enlightened"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/enlighten-support-3"
+          count: 1
+    The Destination:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-destination"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/watchers-eye-prismatic-jewel"
+          count: 1.2
+    The Last Supper:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-last-supper"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/binos-kitchen-knife-slaughter-knife"
+          count: 1
+    Alluring Bounty:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/alluring-bounty"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/exalted-orb"
+          count: 10
+    Monochrome:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/monochrome"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/elevated-sextant"
+          count: 1.6
+    The World Eater:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-world-eater"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/starforge-infernal-sword"
+          count: 1
+    Tranquillity:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/tranquillity"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/voltaxic-rift-spine-bow"
+          count: 1
+    The Patient:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-patient"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/divination-cards/the-nurse"
+          count: 1
+    The Astromancer:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-astromancer"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/the-eternity-shroud-blood-raiment"
+          count: 1.2
+    The Gulf:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-gulf"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/thread-of-hope-crimson-jewel"
+          count: 1.2
+    The Scout:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-scout-divcard"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/exalted-orb"
+          count: 7
+    Deadly Joy:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/deadly-joy"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-torrents-reclamation-cloth-belt"
+          count: 1.2
+    The Chosen:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-chosen"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/skin-of-the-lords-simple-robe-6l"
+          count: 1
+    The Damned:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-damned"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/soul-ripper"
+          count: 1
+    Audacity:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/audacity"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/doryanis-fist-vaal-gauntlets"
+          count: 1
+    A Modest Request:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/a-modest-request"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/megalomaniac-medium-cluster-jewel"
+          count: 1
+    Abandoned Wealth:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/abandoned-wealth"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/exalted-orb"
+          count: 3
+    Gift of Asenath:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/gift-of-asenath"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/asenaths-gentle-touch-silk-gloves"
+          count: 1.2
+    Judging Voices:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/judging-voices"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/forbidden-shako-great-crown"
+          count: 1
+    Rebirth:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/rebirth-divcard"
+          count: 27
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/oni-goroshi-charans-sword-6l"
+          count: 1
+    The Eye of Terror:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-eye-of-terror"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/fragments/chayulas-pure-breachstone"
+          count: 1
+    The Long Con:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-long-con"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/hunters-exalted-orb"
+          count: 0.25
+        - url: "https://poe.ninja/challenge/currency/crusaders-exalted-orb"
+          count: 0.25
+        - url: "https://poe.ninja/challenge/currency/redeemers-exalted-orb"
+          count: 0.25
+        - url: "https://poe.ninja/challenge/currency/warlords-exalted-orb"
+          count: 0.25
+    The Progeny of Lunaris:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-progeny-of-lunaris"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/dying-sun"
+          count: 1
+    The Queen:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-queen"
+          count: 16
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/atziris-acuity-vaal-gauntlets"
+          count: 1
+    Brush, Paint and Palette:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/brush-paint-and-palette"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/divination-cards/the-artist"
+          count: 1
+    The Celestial Stone:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-celestial-stone"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/base-types/opal-ring-86-shaper"
+          count: 1
+    The Strategist:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-strategist"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/inspired-learning-crimson-jewel"
+          count: 0.8
+    Nook's Crown:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/nooks-crown"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/base-types/bone-helmet-86-elder"
+          count: 1
+    Mawr Blaidd:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/mawr-blaidd"
+          count: 16
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/eyes-of-the-greatwolf-greatwolf-talisman"
+          count: 1
+    Pride of the First Ones:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/pride-of-the-first-ones"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/farruls-fur-triumphant-lamellar"
+          count: 1
+    The Polymath:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-polymath"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/astramentis-onyx-amulet"
+          count: 1
+    The Bargain:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-bargain"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/fragments/chayulas-pure-breachstone"
+          count: 0.2
+        - url: "https://poe.ninja/challenge/fragments/xophs-pure-breachstone"
+          count: 0.2
+        - url: "https://poe.ninja/challenge/fragments/eshs-pure-breachstone"
+          count: 0.2
+        - url: "https://poe.ninja/challenge/fragments/tuls-pure-breachstone"
+          count: 0.2
+        - url: "https://poe.ninja/challenge/fragments/uul-netols-pure-breachstone"
+          count: 0.2
+    The Offspring:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-offspring"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/ryslathas-coil-studded-belt"
+          count: 1
+    Altered Perception:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/altered-perception"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/fragments/simulacrum"
+          count: 1
+    Etched in Blood:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/etched-in-blood"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/rigwalds-quills-two-point-arrow-quiver"
+          count: 1.2
+    Lethean Temptation:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/lethean-temptation"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/nebulis-void-sceptre"
+          count: 1
+    The Escape:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-escape"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/seven-league-step-rawhide-boots"
+          count: 1
+    The Hive of Knowledge:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-hive-of-knowledge"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/machina-mitts-murder-mitts"
+          count: 1.2
+    The Mind's Eyes:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-minds-eyes"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/astral-projector-topaz-ring"
+          count: 1
+    The Tumbleweed:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-tumbleweed"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/base-types/diamond-ring-86-redeemer"
+          count: 1
+    The Wedding Gift:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-wedding-gift"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/arakaalis-fang-fiend-dagger"
+          count: 1
+    The Throne:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-throne"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/kaoms-roots-titan-greaves"
+          count: 0.8
+    Misery in Darkness:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/misery-in-darkness"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/shroud-of-the-lightless-1-jewel-carnal-armour"
+          count: 1
+    Anarchy's Price:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/anarchys-price"
+          count: 13
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/voltaxic-rift-spine-bow"
+          count: 1
+    Brotherhood in Exile:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/brotherhood-in-exile"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/one-with-nothing-small-cluster-jewel"
+          count: 0.8
+    Checkmate:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/checkmate"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/fragments/simulacrum"
+          count: 0.26
+    Desperate Crusade:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/desperate-crusade"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/prism-guardian-archon-kite-shield"
+          count: 1
+    Dying Light:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/dying-light"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/base-types/diamond-ring-86-shaper-elder"
+          count: 1
+    Endless Night:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/endless-night"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/maloneys-mechanism-ornate-quiver"
+          count: 1
+    Lucky Deck:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/lucky-deck"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/stacked-deck"
+          count: 10
+    Silence and Frost:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/silence-and-frost"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-pandemonius-jade-amulet"
+          count: 1
+    The Academic:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-academic"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/inspired-learning-crimson-jewel"
+          count: 1
+    The Brittle Emperor:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-brittle-emperor"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/volls-devotion-agate-amulet"
+          count: 0.8
+    The Conduit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-conduit"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/doryanis-fist-vaal-gauntlets"
+          count: 1
+    The Cursed King:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-cursed-king"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/rigwalds-curse-wereclaw-talisman"
+          count: 1
+    The Enthusiasts:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-enthusiasts"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/victarios-influence-lacquered-garb"
+          count: 1.2
+    The Heroic Shot:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-heroic-shot"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/chromatic-orb"
+          count: 17
+    The Hunger:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-hunger"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/taste-of-hate"
+          count: 1
+    The Life Thief:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-life-thief"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/zerphis-heart-paua-amulet"
+          count: 1
+    The Offering:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-offering"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/shavronnes-wrappings-occultists-vestment"
+          count: 1
+    The Pact:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-pact"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/pledge-of-hands-judgement-staff"
+          count: 1
+    The Prince of Darkness:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-prince-of-darkness"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/elegant-hubris-timeless-jewel"
+          count: 1
+    The Professor:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-professor"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/the-putrid-cloister-t3"
+          count: 1
+    The Saint's Treasure:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-saints-treasure"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/exalted-orb"
+          count: 2
+    The Seeker:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-seeker"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-annulment"
+          count: 3
+    The Thaumaturgist:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-thaumaturgist"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/shavronnes-revelation-moonstone-ring"
+          count: 1.2
+    The Whiteout:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-whiteout"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/cospris-malice-jewelled-foil"
+          count: 1
+    The Wolven King's Bite:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-wolven-kings-bite"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/rigwalds-quills-two-point-arrow-quiver"
+          count: 1
+    Turn the Other Cheek:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/turn-the-other-cheek"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/pacifism-viridian-jewel"
+          count: 0.8
+    Underground Forest:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/underground-forest"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/awakened-sextant"
+          count: 10
+    A Sea of Blue:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/a-sea-of-blue"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-alteration"
+          count: 13
+    The Deep Ones:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-deep-ones"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/tidebreaker-imperial-maul"
+          count: 1
+    The Wind:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-wind"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/windripper-imperial-bow"
+          count: 1
+    Demigod's Wager:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/demigods-wager"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-annulment"
+          count: 1
+    The Cartographer:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-cartographer"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/cartographers-chisel"
+          count: 10
+    Burning Blood:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/burning-blood"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/xophs-blood-amber-amulet"
+          count: 0.8
+    Guardian's Challenge:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/guardians-challenge"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/maps/maze-of-the-minotaur-map-t16-gen-16"
+          count: 0.25
+        - url: "https://poe.ninja/challenge/maps/forge-of-the-phoenix-map-t16-gen-16"
+          count: 0.25
+        - url: "https://poe.ninja/challenge/maps/pit-of-the-chimera-map-t16-gen-16"
+          count: 0.25
+        - url: "https://poe.ninja/challenge/maps/lair-of-the-hydra-map-t16-gen-16"
+          count: 0.25
+    Hunter's Reward:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/hunters-reward"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-taming-prismatic-ring"
+          count: 1
+    Keeper's Corruption:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/keepers-corruption"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/base-types/bone-helmet-86-elder"
+          count: 1
+    The Darkest Dream:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-darkest-dream"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/severed-in-sleep-cutlass"
+          count: 1
+    The Formless Sea:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-formless-sea"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/varunastra-vaal-blade"
+          count: 1
+    The Innocent:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-innocent"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-regret"
+          count: 40
+    The Insatiable:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-insatiable"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/the-harvest-jasper-chopper"
+          count: 0.8
+    The Landing:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-landing"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/the-beachhead-t15"
+          count: 1
+    The Mad King:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-mad-king"
+          count: 7
+      outcomes:
+        - url: "https://poe.watch/detailed/47452"
+          count: 0.25
+        - url: "https://poe.watch/detailed/47550"
+          count: 0.25
+        - url: "https://poe.watch/detailed/47443"
+          count: 0.25
+        - url: "https://poe.watch/detailed/47598"
+          count: 0.25
+    The Magma Crab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-magma-crab"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/vaal-molten-shell-21c"
+          count: 1
+    The Primordial:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-primordial"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/primordial-eminence-viridian-jewel"
+          count: 0.333
+        - url: "https://poe.ninja/challenge/unique-jewels/primordial-harmony-cobalt-jewel"
+          count: 0.333
+        - url: "https://poe.ninja/challenge/unique-jewels/primordial-might-crimson-jewel"
+          count: 0.333
+    The Twilight Moon:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-twilight-moon"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/the-twilight-temple-t2"
+          count: 1
+    Unchained:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/unchained"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/facebreaker-strapped-mitts"
+          count: 1.2
+    The Wolf's Legacy:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-wolfs-legacy"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/vaults-of-atziri-t4"
+          count: 1
+    The Beast:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-beast"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/belly-of-the-beast-full-wyrmscale"
+          count: 1
+    The Craving:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-craving"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/unending-hunger-cobalt-jewel"
+          count: 1
+    A Note in the Wind:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/a-note-in-the-wind"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/asenaths-mark-iron-circlet"
+          count: 1
+    Acclimatisation:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/acclimatisation"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-alteration"
+          count: 20
+    Ambitious Obsession:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/ambitious-obsession"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 1
+    Coveted Possession:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/coveted-possession"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/regal-orb"
+          count: 5
+    Death:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/death"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/montreguls-grasp-void-sceptre"
+          count: 1
+    Echoes of Love:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/echoes-of-love"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/fidelitas-spike-jagged-foil"
+          count: 1.2
+    Ever-Changing:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/ever-changing"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-unmaking"
+          count: 10
+    From Bone to Ashes:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/from-bone-to-ashes"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/ngamahus-flame-abyssal-axe"
+          count: 1.2
+    Last Hope:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/last-hope"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/fragments/mortal-hope"
+          count: 1
+    Light and Truth:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/light-and-truth"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/nyctas-lantern-crystal-sceptre"
+          count: 0.5
+        - url: "https://poe.ninja/challenge/unique-weapons/the-supreme-truth-crystal-sceptre"
+          count: 0.5
+    No Traces:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/no-traces"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-scouring"
+          count: 30
+    The Adventuring Spirit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-adventuring-spirit"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/victarios-influence-lacquered-garb"
+          count: 1
+    The Avenger:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-avenger"
+          count: 10
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/mjolner-gavel"
+          count: 1
+    The Bones:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-bones"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/vaal-summon-skeletons-21c"
+          count: 1
+    The Coming Storm:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-coming-storm"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/lightning-coil-desert-brigandine"
+          count: 1
+    The Deceiver:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-deceiver"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/belt-of-the-deceiver-heavy-belt"
+          count: 0.8
+    The Drunken Aristocrat:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-drunken-aristocrat"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/divination-distillate"
+          count: 1
+    The Fathomless Depths:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-fathomless-depths"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/lightpoacher-1-jewel-great-crown"
+          count: 1
+    The Feast:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-feast"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/romiras-banquet-diamond-ring"
+          count: 0.8
+    The Finishing Touch:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-finishing-touch"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/fertile-catalyst"
+          count: 1
+    The Fool:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-fool"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-chance"
+          count: 20
+    The Forsaken:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-forsaken"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/umbilicus-immortalis-leather-belt"
+          count: 1
+    The Fox in the Brambles:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-fox-in-the-brambles"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/bramblejack-plate-vest"
+          count: 1
+    The Inventor:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-inventor"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 10
+    The King's Heart:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-kings-heart"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/kaoms-heart-glorious-plate"
+          count: 1
+    The Lunaris Priestess:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-lunaris-priestess"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/sire-of-shards-serpentine-staff"
+          count: 1
+    The Master:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-master"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/biscos-collar-gold-amulet"
+          count: 1
+    The Return of the Rat:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-return-of-the-rat"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/tavukai-coral-amulet"
+          count: 1
+    The Risk:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-risk"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/ventors-gamble-gold-ring"
+          count: 1
+    The Ruthless Ceinture:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-ruthless-ceinture"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/meginords-girdle-heavy-belt"
+          count: 0.8
+    The Siren:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-siren"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/the-whispering-ice-vile-staff"
+          count: 0.8
+    The Spark and the Flame:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-spark-and-the-flame"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/bereks-respite-two-stone-ring"
+          count: 1
+    The Union:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-union"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 10
+    The Wolf's Shadow:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-wolfs-shadow"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/hyaons-fury-legion-sword"
+          count: 1
+    Vinia's Token:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/vinias-token"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-regret"
+          count: 10
+    The Incantation:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-incantation"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/the-whispering-ice-vile-staff"
+          count: 1
+    A Dab of Ink:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/a-dab-of-ink"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/the-poets-pen-carved-wand"
+          count: 1
+    The Dreamland:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-dreamland"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/poorjoys-asylum-t5"
+          count: 1
+    Treasure Hunter:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/treasure-hunter"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/vaults-of-atziri-t4"
+          count: 1
+    A Mother's Parting Gift:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/a-mothers-parting-gift"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/fertile-mind-cobalt-jewel"
+          count: 0.8
+    Alivia's Grace:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/alivias-grace"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/queen-of-the-forest-destiny-leather"
+          count: 1
+    Boon of Justice:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/boon-of-justice"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/fragments/offering-to-the-goddess"
+          count: 1
+    Broken Truce:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/broken-truce"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/cold-iron-point-ezomyte-dagger"
+          count: 1
+    Cursed Words:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/cursed-words"
+          count: 13
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/maw-of-mischief-bone-helmet"
+          count: 1
+    Dark Temptation:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/dark-temptation"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/obliteration-demons-horn"
+          count: 1
+    Forbidden Power:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/forbidden-power"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/balefire-opal-sceptre"
+          count: 0.8
+    Grave Knowledge:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/grave-knowledge"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/summon-raging-spirit-1-20"
+          count: 1
+    Might is Right:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/might-is-right"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/trypanon-great-mallet"
+          count: 1
+    Pride Before the Fall:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/pride-before-the-fall"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/kaoms-heart-glorious-plate"
+          count: 0.8
+    Scholar of the Seas:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/scholar-of-the-seas"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/mao-kun-t4"
+          count: 1
+    The Betrayal:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-betrayal"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/maligaros-virtuosity-deerskin-gloves"
+          count: 1
+    The Demoness:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-demoness"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/deaths-hand-karui-sceptre"
+          count: 1
+    The Dragon:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-dragon"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/coruscating-elixir"
+          count: 1
+    The Gladiator:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-gladiator"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/devotos-devotion-nightmare-bascinet"
+          count: 0.5
+        - url: "https://poe.ninja/challenge/unique-armours/the-bringer-of-rain-nightmare-bascinet"
+          count: 0.5
+    The Hoarder:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-hoarder"
+          count: 12
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/exalted-orb"
+          count: 1
+    The Journey:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-journey"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/harbingers-orb"
+          count: 1
+    The Lich:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-lich"
+          count: 12
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/midnight-bargain-engraved-wand"
+          count: 0.8
+    The One With All:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-one-with-all"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/le-heup-of-all-iron-ring"
+          count: 0.8
+    The Scavenger:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-scavenger"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/carcass-jack-varnished-coat"
+          count: 1
+    The Visionary:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-visionary"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/lioneyes-vision-crusader-plate"
+          count: 1
+    The Watcher:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-watcher"
+          count: 12
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/crown-of-eyes-hubris-circlet"
+          count: 1
+    The Witch:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-witch"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/kiaras-determination"
+          count: 1
+    Thirst for Knowledge:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/thirst-for-knowledge"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/gluttony-leather-belt"
+          count: 1
+    Vile Power:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/vile-power"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/doomfletch-royal-bow"
+          count: 1
+    The Oath:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-oath"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/deaths-oath-astral-plate"
+          count: 1
+    The Scarred Meadow:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-scarred-meadow"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/wake-of-destruction-mesh-boots"
+          count: 1
+    Humility:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/humility"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/tabula-rasa-simple-robe-6l"
+          count: 1
+    Earth Drinker:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/earth-drinker"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-flasks/lions-roar"
+          count: 0.5
+        - url: "https://poe.ninja/challenge/unique-flasks/rumis-concoction"
+          count: 0.5
+    Rats:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/rats"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/rats-nest-ursine-pelt"
+          count: 1
+    The Army of Blood:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-army-of-blood"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/bloodbond-bone-armour"
+          count: 1
+    The Fletcher:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-fletcher"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/drillneck-penetrating-arrow-quiver"
+          count: 0.8
+    The Blazing Fire:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-blazing-fire"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/chin-sol-assassin-bow"
+          count: 1
+    The Harvester:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-harvester"
+          count: 11
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/the-harvest-jasper-chopper"
+          count: 1
+    The Hermit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-hermit"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/lifesprig-driftwood-wand"
+          count: 1
+    The Pack Leader:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-pack-leader"
+          count: 6
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/alphas-howl-sinner-tricorne"
+          count: 1
+    The Realm:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-realm"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/portal-1"
+          count: 1
+    The Sun:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-sun"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/rise-of-the-phoenix-mosaic-kite-shield"
+          count: 1
+    The Sword King's Salute:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/the-sword-kings-salute"
+          count: 7
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/daressos-salute-citrine-amulet"
+          count: 1
+    Thunderous Skies:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/thunderous-skies"
+          count: 5
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/storm-cloud-long-bow"
+          count: 1
+    Vanity:
+      ingredients:
+        - url: "https://poe.ninja/challenge/divination-cards/vanity"
+          count: 9
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/tabula-rasa-simple-robe-6l"
+          count: 0.9
