@@ -40,8 +40,8 @@ for category in recipes:
             recipe_cost = calculate_cost_of_items(recipe_items.get('ingredients'))
             recipe_value = calculate_cost_of_items(recipe_items.get('outcomes'))
             recipe_total_trades = calculate_number_of_trades(recipe_items.get('ingredients'))
-        except Exception:
-            print(f"Skipped: {recipe_name}")
+        except Exception as e:
+            print(f"Skipped: {recipe_name}, reason: {e}")
             continue
         all_recipes[category].append(Recipe(recipe_name, recipe_cost, recipe_total_trades, recipe_value))
 
