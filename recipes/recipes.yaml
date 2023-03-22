@@ -1,0 +1,652 @@
+category:
+  Vendor Recipe:
+    Elemental Penetration Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/replica-bitterdream-shadow-sceptre"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/fire-penetration-support-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/cold-penetration-support-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/lightning-penetration-support-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/elemental-penetration-support-1"
+          count: 1
+    The Anima Stone:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/primordial-eminence-viridian-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-jewels/primordial-harmony-cobalt-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-jewels/primordial-might-crimson-jewel"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-anima-stone-prismatic-jewel"
+          count: 1
+    Arborix:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/grelwood-shank-eternal-sword"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-weapons/beltimber-blade-eternal-sword"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/arborix-assassin-bow"
+          count: 1
+    Duskdawn:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/shade-of-solaris-sage-wand"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-armours/light-of-lunaris-jingling-spirit-shield"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/duskdawn-maelstrom-staff"
+          count: 1
+    Kingmaker:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/soul-taker-siege-axe"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-weapons/heartbreaker-royal-skean"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/kingmaker-despot-axe"
+          count: 1
+    Magna Eclipsis:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/invictus-solaris-archon-kite-shield"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-armours/vix-lunaris-cardinal-round-shield"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/magna-eclipsis-pinnacle-tower-shield"
+          count: 1
+    The Retch:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/faminebind-rustic-sash"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-accessories/feastbind-rustic-sash"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-retch-rustic-sash"
+          count: 1
+    The Taming:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/bereks-respite-two-stone-ring"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-accessories/bereks-pass-two-stone-ring"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-accessories/bereks-grip-two-stone-ring"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-taming-prismatic-ring"
+          count: 1
+    The Vinktar Square:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/agnerod-east-imperial-staff"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-weapons/agnerod-west-imperial-staff"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-weapons/agnerod-south-imperial-staff"
+          count: 1
+        - url: "https://poe.ninja/challenge/unique-weapons/agnerod-north-imperial-staff"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-maps/the-vinktar-square-t5"
+          count: 1
+    Star of Wraeclast:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/mokous-embrace-ruby-ring"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/lightning-warp-20-20c"
+          count: 1
+      outcomes:
+        - url: "https://poe.watch/detailed/1944"
+          count: 1
+    Cameria's Avarice:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/camerias-maul-gavel"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/ice-bite-support-1-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/glacial-hammer-1-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/ice-spear-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/camerias-avarice-gavel"
+          count: 1
+    Combat Focus (no Lightning) Wild Strike:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/wild-strike-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/combat-focus-viridian-jewel"
+          count: 1
+    Combat Focus (no Lightning) Ele Hit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/elemental-hit-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/combat-focus-viridian-jewel"
+          count: 1
+    Combat Focus (no Cold) Wild Strike:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/wild-strike-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/combat-focus-crimson-jewel"
+          count: 1
+    Combat Focus (no Cold) Ele Hit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/elemental-hit-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/combat-focus-crimson-jewel"
+          count: 1
+    Combat Focus (no Fire) Wild Strike:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/wild-strike-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/combat-focus-cobalt-jewel"
+          count: 1
+    Combat Focus (no Fire) Ele Hit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/elemental-hit-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/combat-focus-cobalt-jewel"
+          count: 1
+    Endless Misery:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/discharge-1-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/second-wind-support-1-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/skill-gems/concentrated-effect-support-1-20"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/endless-misery-cobalt-jewel"
+          count: 1
+    Dead Reckoning:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/summon-skeletons-1-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-alchemy"
+          count: 0
+        - url: "https://poe.ninja/challenge/unique-weapons/lifesprig-driftwood-wand"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/dead-reckoning-cobalt-jewel"
+          count: 1
+    Spirit Guards:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/animate-weapon-1-20"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/orb-of-alchemy"
+          count: 0
+        - url: "https://poe.ninja/challenge/unique-weapons/nuros-harp-harbinger-bow"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/spirit-guards-viridian-jewel"
+          count: 1
+  Awakened Gem Leveling:
+    Awakened Multistrike Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-multistrike-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-multistrike-support-5-20"
+          count: 1
+    Awakened Ancestral Call Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-ancestral-call-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-ancestral-call-support-5-20"
+          count: 1
+    Awakened Added Fire Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-fire-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-fire-damage-support-5-20"
+          count: 1
+    Awakened Brutality Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-brutality-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-brutality-support-5-20"
+          count: 1
+    Awakened Empower Support:
+      ingredients:
+        - url: "https://poe.watch/detailed/46485"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 3
+      outcomes:
+        - url: "https://poe.watch/detailed/46746"
+          count: 1
+    Awakened Fire Penetration Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-fire-penetration-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-fire-penetration-support-5-20"
+          count: 1
+    Awakened Generosity Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-generosity-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-generosity-support-5-20"
+          count: 1
+    Awakened Burning Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-burning-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-burning-damage-support-5-20"
+          count: 1
+    Awakened Melee Physical Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-melee-physical-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-melee-physical-damage-support-5-20"
+          count: 1
+    Awakened Melee Splash Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-melee-splash-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-melee-splash-support-5-20"
+          count: 1
+    Awakened Elemental Damage with Attacks Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-elemental-damage-with-attacks-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-elemental-damage-with-attacks-support-5-20"
+          count: 1
+    Awakened Added Cold Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-cold-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-cold-damage-support-5-20"
+          count: 1
+    Awakened Cast On Critical Strike Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-cast-on-critical-strike-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-cast-on-critical-strike-support-5-20"
+          count: 1
+    Awakened Chain Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-chain-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-chain-support-5-20"
+          count: 1
+    Awakened Cold Penetration Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-cold-penetration-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-cold-penetration-support-5-20"
+          count: 1
+    Awakened Deadly Ailments Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-deadly-ailments-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-deadly-ailments-support-5-20"
+          count: 1
+    Awakened Fork Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-fork-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-fork-support-5-20"
+          count: 1
+    Awakened Greater Multiple Projectiles Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-greater-multiple-projectiles-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-greater-multiple-projectiles-support-5-20"
+          count: 1
+    Awakened Arrow Nova Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-arrow-nova-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-arrow-nova-support-5-20"
+          count: 1
+    Awakened Vicious Projectiles Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-vicious-projectiles-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-vicious-projectiles-support-5-20"
+          count: 1
+    Awakened Swift Affliction Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-swift-affliction-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-swift-affliction-support-5-20"
+          count: 1
+    Awakened Void Manipulation Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-void-manipulation-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-void-manipulation-support-5-20"
+          count: 1
+    Awakened Enhance Support:
+      ingredients:
+        - url: "https://poe.watch/detailed/46502"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 3
+      outcomes:
+        - url: "https://poe.watch/detailed/46781"
+          count: 1
+    Awakened Minion Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-minion-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-minion-damage-support-5-20"
+          count: 1
+    Awakened Blasphemy Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-blasphemy-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-blasphemy-support-5-20"
+          count: 1
+    Awakened Added Chaos Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-chaos-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-chaos-damage-support-5-20"
+          count: 1
+    Awakened Added Lightning Damage Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-lightning-damage-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-added-lightning-damage-support-5-20"
+          count: 1
+    Awakened Hextouch Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-hextouch-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-hextouch-support-5-20"
+          count: 1
+    Awakened Cast While Channelling Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-cast-while-channelling-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-cast-while-channelling-support-5-20"
+          count: 1
+    Awakened Controlled Destruction Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-controlled-destruction-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-controlled-destruction-support-5-20"
+          count: 1
+    Awakened Spell Echo Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-spell-echo-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-spell-echo-support-5-20"
+          count: 1
+    Awakened Elemental Focus Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-elemental-focus-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-elemental-focus-support-5-20"
+          count: 1
+    Awakened Enlighten Support:
+      ingredients:
+        - url: "https://poe.watch/detailed/46480"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 3
+      outcomes:
+        - url: "https://poe.watch/detailed/46600"
+          count: 1
+    Awakened Increased Area of Effect Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-increased-area-of-effect-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-increased-area-of-effect-support-5-20"
+          count: 1
+    Awakened Lightning Penetration Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-lightning-penetration-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-lightning-penetration-support-5-20"
+          count: 1
+    Awakened Spell Cascade Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-spell-cascade-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-spell-cascade-support-5-20"
+          count: 1
+    Awakened Unbound Ailments Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-unbound-ailments-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-unbound-ailments-support-5-20"
+          count: 1
+    Awakened Unleash Support:
+      ingredients:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-unleash-support-1"
+          count: 1
+        - url: "https://poe.ninja/challenge/beasts/wild-brambleback"
+          count: 4
+        - url: "https://poe.ninja/challenge/currency/gemcutters-prism"
+          count: 20
+      outcomes:
+        - url: "https://poe.ninja/challenge/skill-gems/awakened-unleash-support-5-20"
+          count: 1
+  Bestiary Bosses:
+    Craicic Spider Crab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/beasts/craicic-spider-crab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/beasts/craiceann-first-of-the-deep"
+          count: 1
+    Farric Tiger Alpha:
+      ingredients:
+        - url: "https://poe.ninja/challenge/beasts/farric-tiger-alpha"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/beasts/farrul-first-of-the-plains"
+          count: 1
+    Fenumal Hybrid Arachnid:
+      ingredients:
+        - url: "https://poe.ninja/challenge/beasts/fenumal-hybrid-arachnid"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/beasts/fenumus-first-of-the-night"
+          count: 1
+    Saqawine Rhex:
+      ingredients:
+        - url: "https://poe.ninja/challenge/beasts/saqawine-rhex"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/beasts/saqawal-first-of-the-sky"
+          count: 1
