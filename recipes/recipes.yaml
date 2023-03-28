@@ -2117,3 +2117,2407 @@ category:
       outcomes:
         - url: "https://poe.ninja/challenge/unique-armours/tabula-rasa-simple-robe-6l"
           count: 0.9
+  Essence Rerolls:
+    Essence of Horror:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/essence-of-horror"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/essence-of-delirium"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-insanity"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-hysteria"
+          count: 0.3333
+    Essence of Delirium:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/essence-of-delirium"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/essence-of-horror"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-insanity"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-hysteria"
+          count: 0.3333
+    Essence of Insanity:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/essence-of-insanity"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/essence-of-delirium"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-horror"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-hysteria"
+          count: 0.3333
+    Essence of Hysteria:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/essence-of-hysteria"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/essence-of-delirium"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-insanity"
+          count: 0.3333
+        - url: "https://poe.ninja/challenge/essences/essence-of-horror"
+          count: 0.3333
+    Deafening Essence of Loathing:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Contempt:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Envy:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Scorn:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Greed:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Misery:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Rage:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Sorrow:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Spite:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Woe:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Zeal:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Dread:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Fear:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Torment:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Anger:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Hatred:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Suffering:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Wrath:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Anguish:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 0.05263
+    Deafening Essence of Doubt:
+      ingredients:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-doubt"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-contempt"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-envy"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-greed"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-scorn"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-misery"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-rage"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-sorrow"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-spite"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-woe"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-zeal"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-dread"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-fear"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-loathing"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anger"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-hatred"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-suffering"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-wrath"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-anguish"
+          count: 0.05263
+        - url: "https://poe.ninja/challenge/essences/deafening-essence-of-torment"
+          count: 0.05263
+  Delirium Orb Rerolls:
+    Diviner's Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Skittering Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Fine Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Singular Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Abyssal Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Amorphous Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Blighted Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Cartographer's Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Foreboding Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Fossilised Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Fragmented Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Jeweller's Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Obscured Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Thaumaturge's Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Timeless Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Whispering Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Armoursmith's Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Blacksmith's Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 0.05555
+    Imperial Delirium Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/delirium-orbs/imperial-delirium-orb"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/primal-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/delirium-orbs/skittering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fine-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/singular-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/abyssal-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/amorphous-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blighted-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/cartographers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/foreboding-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fossilised-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/fragmented-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/jewellers-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/obscured-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/thaumaturges-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/timeless-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/whispering-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/armoursmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/blacksmiths-delirium-orb"
+          count: 0.05555
+        - url: "https://poe.ninja/challenge/delirium-orbs/diviners-delirium-orb"
+          count: 0.05555
+  Winged Scarabs Rerolls:
+    Winged Divination Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Ambush Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Harbinger Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Reliquary Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Abyss Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Breach Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Blight Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Cartography Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Expedition Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Legion Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Bestiary Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Metamorph Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Sulphite Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Elder Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Shaper Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 0.06666
+    Winged Torment Scarab:
+      ingredients:
+        - url: "https://poe.ninja/challenge/scarabs/winged-torment-scarab"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
+          count: 30
+      outcomes:
+        - url: "https://poe.ninja/challenge/scarabs/winged-ambush-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-harbinger-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-reliquary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-abyss-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-breach-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-blight-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-cartography-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-expedition-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-legion-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-bestiary-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-metamorph-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-sulphite-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-elder-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-shaper-scarab"
+          count: 0.06666
+        - url: "https://poe.ninja/challenge/scarabs/winged-divination-scarab"
+          count: 0.06666
