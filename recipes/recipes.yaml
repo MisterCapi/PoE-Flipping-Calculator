@@ -1,4 +1,76 @@
 category:
+  Frequent Costs:
+    Create corrupted 6 socket (3 socket craft):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 24
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 24
+        - url: "https://poe.ninja/challenge/currency/tainted-jewellers-orb"
+          count: 24
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
+    Create corrupted 6 socket (4 socket craft):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 40
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 40
+        - url: "https://poe.ninja/challenge/currency/tainted-jewellers-orb"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
+    Create 6 socket (jewellers spam):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 223
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
+    Create corrupted 6 link (4 link craft):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 20
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 20
+        - url: "https://poe.ninja/challenge/currency/tainted-orb-of-fusing"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
+    Create corrupted 6 link (5 link craft):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 300
+        - url: "https://poe.ninja/challenge/currency/vaal-orb"
+          count: 300
+        - url: "https://poe.ninja/challenge/currency/tainted-orb-of-fusing"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
+    Create 6 link (fusing spam):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1000
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
+    Normal 6 socket + 5 link bench -> Bestiary corrupt -> Tainted fuse (counted as 2 chances because 50/50):
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 446
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 300
+        - url: "https://poe.ninja/challenge/currency/tainted-orb-of-fusing"
+          count: 2
+        - url: "https://poe.ninja/challenge/beasts/craicic-vassal"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/divine-orb"
+          count: 1
   Vendor Recipe:
     Elemental Penetration Support:
       ingredients:
