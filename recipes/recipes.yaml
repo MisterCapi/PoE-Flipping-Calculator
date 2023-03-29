@@ -272,6 +272,169 @@ category:
       outcomes:
         - url: "https://poe.ninja/challenge/unique-jewels/spirit-guards-viridian-jewel"
           count: 1
+  Blessings:
+    Xoph's Nurture:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/xophs-inception-bone-bow"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-xoph"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/xophs-nurture-citadel-bow"
+          count: 1
+    The Formless Inferno:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/the-formless-flame-siege-helmet"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-xoph"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/the-formless-inferno-royal-burgonet"
+          count: 1
+    Xoph's Blood:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/xophs-heart-amber-amulet"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-xoph"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/xophs-blood-amber-amulet"
+          count: 1
+    Tulfall:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/tulborn-spiraled-wand"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-tul"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/tulfall-tornado-wand"
+          count: 1
+    The Perfect Form:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/the-snowblind-grace-coronal-leather"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-tul"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/the-perfect-form-zodiac-leather"
+          count: 1
+    The Pandemonius:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-halcyon-jade-amulet"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-tul"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/the-pandemonius-jade-amulet"
+          count: 1
+    Hand of Wisdom and Action:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/hand-of-thought-and-motion-blinder"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-esh"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/hand-of-wisdom-and-action-imperial-claw"
+          count: 1
+    Esh's Visage:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/eshs-mirror-thorium-spirit-shield"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-esh"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/eshs-visage-vaal-spirit-shield"
+          count: 1
+    Choir of the Storm:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/voice-of-the-storm-lapis-amulet"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-esh"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/choir-of-the-storm-lapis-amulet"
+          count: 1
+    Uul-Netol's Embrace:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/uul-netols-kiss-labrys"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-uul-netol"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/uul-netols-embrace-vaal-axe"
+          count: 1
+    The Surrender:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/the-anticipation-ezomyte-tower-shield"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-uul-netol"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/the-surrender-ezomyte-tower-shield"
+          count: 1
+    The Red Trail:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/the-infinite-pursuit-goliath-greaves"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-uul-netol"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/the-red-trail-titan-greaves"
+          count: 1
+    United in Dream:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/severed-in-sleep-cutlass"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-chayula"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/united-in-dream-cutlass"
+          count: 1
+    Skin of the Lords:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/skin-of-the-loyal-simple-robe-6l"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-chayula"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/skin-of-the-lords-simple-robe-6l"
+          count: 1
+    Presence of Chayula:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/eye-of-chayula-onyx-amulet"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-chayula"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/presence-of-chayula-onyx-amulet"
+          count: 1
+    The Red Nightmare:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-red-dream-crimson-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-chayula"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-red-nightmare-crimson-jewel"
+          count: 1
+    The Green Nightmare:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-green-dream-viridian-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-chayula"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-green-nightmare-viridian-jewel"
+          count: 1
+    The Blue Nightmare:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-blue-dream-cobalt-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/currency/blessing-of-chayula"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/the-blue-nightmare-cobalt-jewel"
+          count: 1
   Awakened Gem Leveling:
     Awakened Multistrike Support:
       ingredients:
