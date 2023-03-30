@@ -435,6 +435,88 @@ category:
       outcomes:
         - url: "https://poe.ninja/challenge/unique-jewels/the-blue-nightmare-cobalt-jewel"
           count: 1
+  Apex of Ascension (Temple):
+    Apep's Supremacy:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/apeps-slumber-vaal-spirit-shield"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-awakening"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/apeps-supremacy-vaal-spirit-shield"
+          count: 1
+    Coward's Legacy:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-accessories/cowards-chains-chain-belt"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-consequence"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-accessories/cowards-legacy-chain-belt"
+          count: 1
+    Slavedriver's Hand:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/architects-hand-ambush-mitts"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-dominance"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/slavedrivers-hand-ambush-mitts"
+          count: 1
+    Fate of the Vaal:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-weapons/story-of-the-vaal-gemstone-sword"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-fate"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-weapons/fate-of-the-vaal-gemstone-sword"
+          count: 1
+    Mask of the Stitched Demon:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/mask-of-the-spirit-drinker-magistrate-crown"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-summoning"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/mask-of-the-stitched-demon-magistrate-crown"
+          count: 1
+    Omeyocan:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-armours/dance-of-the-offered-carnal-boots"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-the-ritual"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-armours/omeyocan-carnal-boots"
+          count: 1
+    Transcendent Flesh:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/tempered-flesh-crimson-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-transcendence"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/transcendent-flesh-crimson-jewel"
+          count: 1
+    Transcendent Spirit:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/tempered-spirit-viridian-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-transcendence"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/transcendent-spirit-viridian-jewel"
+          count: 1
+    Transcendent Mind:
+      ingredients:
+        - url: "https://poe.ninja/challenge/unique-jewels/tempered-mind-cobalt-jewel"
+          count: 1
+        - url: "https://poe.ninja/challenge/vials/vial-of-transcendence"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/unique-jewels/transcendent-mind-cobalt-jewel"
+          count: 1
   Awakened Gem Leveling:
     Awakened Multistrike Support:
       ingredients:
