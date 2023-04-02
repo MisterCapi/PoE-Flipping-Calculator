@@ -272,6 +272,70 @@ category:
       outcomes:
         - url: "https://poe.ninja/challenge/unique-jewels/spirit-guards-viridian-jewel"
           count: 1
+  Currency Conversion:
+    Orb of Regret -> Orb of Alchemy:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-regret"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-alchemy"
+          count: 1
+    2x Orb of Scouring -> Orb of Regret:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-scouring"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-regret"
+          count: 1
+    4x Orb of Chance -> Orb of Scouring:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-chance"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-scouring"
+          count: 1
+    Orb of Fusing -> Orb of Chance:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-chance"
+          count: 1
+    4x Jeweller's Orb -> Orb of Fusing:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-fusing"
+          count: 1
+    3x Jeweller's Orb -> Chromatic Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 3
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/chromatic-orb"
+          count: 1
+    2x Orb of Alteration -> Jeweller's Orb:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-alteration"
+          count: 2
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/jewellers-orb"
+          count: 1
+    4x Orb of Augmentation -> Orb of Alteration:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/orb-of-augmentation"
+          count: 4
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/orb-of-alteration"
+          count: 1
+    8x Blacksmith's Whetstone -> Glassblower's Bauble:
+      ingredients:
+        - url: "https://poe.ninja/challenge/currency/blacksmiths-whetstone"
+          count: 8
+      outcomes:
+        - url: "https://poe.ninja/challenge/currency/glassblowers-bauble"
+          count: 1
   Blessings:
     Xoph's Nurture:
       ingredients:
