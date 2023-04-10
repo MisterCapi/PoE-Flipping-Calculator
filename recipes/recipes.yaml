@@ -5498,593 +5498,593 @@ category:
   Polished Scarabs Rerolls:
     Polished Divination Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Ambush Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Harbinger Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Reliquary Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Abyss Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Breach Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Blight Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Cartography Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Expedition Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Legion Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Bestiary Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Metamorph Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Sulphite Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Elder Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Shaper Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 0.06666
     Polished Torment Scarab:
       ingredients:
-        - url: "https://poe.ninja/challenge/scarabs/golished-torment-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-torment-scarab"
           count: 1
         - url: "https://poe.ninja/challenge/currency/wild-crystallised-lifeforce"
           count: 30
       outcomes:
-        - url: "https://poe.ninja/challenge/scarabs/golished-ambush-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-ambush-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-harbinger-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-harbinger-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-reliquary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-reliquary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-abyss-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-abyss-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-breach-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-breach-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-blight-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-blight-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-cartography-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-cartography-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-expedition-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-expedition-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-legion-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-legion-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-bestiary-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-bestiary-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-metamorph-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-metamorph-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-sulphite-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-sulphite-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-elder-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-elder-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-shaper-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-shaper-scarab"
           count: 0.06666
-        - url: "https://poe.ninja/challenge/scarabs/golished-divination-scarab"
+        - url: "https://poe.ninja/challenge/scarabs/polished-divination-scarab"
           count: 0.06666
