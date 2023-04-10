@@ -27,26 +27,27 @@ def get_all_items():
             error = ""
         if response.status_code == 200:
             data = response.json()
-            for item in data:
-                # Get ID
-                if 'id' in item:
-                    item_id = str(item.get('id'))
-                else:
-                    continue
+            if data:
+                for item in data:
+                    # Get ID
+                    if 'id' in item:
+                        item_id = str(item.get('id'))
+                    else:
+                        continue
 
-                # Get name
-                if 'name' in item:
-                    item_name = item.get('name')
-                else:
-                    continue
+                    # Get name
+                    if 'name' in item:
+                        item_name = item.get('name')
+                    else:
+                        continue
 
-                # Get price
-                if 'min' in item:
-                    item_price = float(item.get('min'))
-                else:
-                    continue
+                    # Get price
+                    if 'min' in item:
+                        item_price = float(item.get('min'))
+                    else:
+                        continue
 
-                all_items[item_id] = Item(item_name, item_price)
+                    all_items[item_id] = Item(item_name, item_price)
         elif error == 'unknown category':
             continue
         else:
